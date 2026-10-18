@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.*_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+data/
+outputs/
+*.bsor
+*.zip
+*.pth
+*.np[yz]
+checkpoints/*
+!checkpoints/pretrained/
+!checkpoints/pretrained/**
